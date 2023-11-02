@@ -1,6 +1,6 @@
 # seg4105_playground
 Seg 4105
-Lab 2 Submission
+Lab 3 Submission
 
 Ralf Pineda 
 300111635
